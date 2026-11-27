@@ -1,0 +1,16 @@
+Term,Library,p-value,q-value,z-score,combined score,overlaps
+positive regulation of vascular permeability (GO:0043117),GO_Biological_Process_2021,0.000002469,0.001669,154.6,1996,ANGPT1;PDE3A;BMP6
+Smooth Muscle Contraction R-HSA-445355,Reactome_2022,0.00000283,0.0004779,48.63,621.3,ITGB5;DYSF;PDE5A;MYLK
+Signal Transduction R-HSA-162582,Reactome_2022,0.000003704,0.0004779,4.599,57.52,GNAZ;NCKAP1;CXCL8;ANGPT1;JUP;ITGB5;EGF;ITGB3;PPBP;LTBP1;MYLK;FCER2;GJA1;PLCB4;CTTN;PPP1R1B;PDE3A;PDE5A
+Arrhythmogenic right ventricular cardiomyopathy,KEGG_2021_Human,0.00002931,0.003719,25.94,270.7,GJA1;JUP;ITGB5;ITGB3
+Molecules Associated With Elastic Fibres R-HSA-2129379,Reactome_2022,0.00003583,0.003081,55.62,569.3,ITGB5;ITGB3;LTBP1
+ECM-receptor interaction,KEGG_2021_Human,0.00004958,0.003719,22.53,223.3,ITGB5;GP1BB;ITGB3;AGRN
+cell-matrix adhesion (GO:0007160),GO_Biological_Process_2021,0.00008171,0.02762,19.7,185.4,CTTN;ITGB5;ITGB3;SIGLEC1
+Elastic Fibre Formation R-HSA-1566948,Reactome_2022,0.00009819,0.005891,38.6,356.2,ITGB5;ITGB3;LTBP1
+Non-integrin membrane-ECM Interactions R-HSA-3000171,Reactome_2022,0.0001142,0.005891,36.57,331.9,ITGB5;ITGB3;AGRN
+Regulation of actin cytoskeleton,KEGG_2021_Human,0.00014,0.007,11.3,100.3,NCKAP1;ITGB5;EGF;ITGB3;MYLK
+Platelet activation,KEGG_2021_Human,0.0001878,0.007042,15.74,135.1,PLCB4;GP1BB;ITGB3;MYLK
+negative regulation of transport (GO:0051051),GO_Biological_Process_2021,0.0002195,0.0325,28.93,243.7,EGF;ITGB3;DYSF
+positive regulation of macromolecule metabolic process (GO:0010604),GO_Biological_Process_2021,0.0002358,0.0325,7.768,64.88,GJA1;CXCL8;ANGPT1;EGF;BMP6;HSPA1A
+negative regulation of cellular process (GO:0048523),GO_Biological_Process_2021,0.0002876,0.0325,6.227,50.78,ADAMDEC1;GJA1;CXCL8;ATP8A2;ANGPT1;DYSF;HSPA1A
+cGMP-PKG signaling pathway,KEGG_2021_Human,0.0005822,0.01747,11.56,86.13,PLCB4;PDE3A;PDE5A;MYLK
